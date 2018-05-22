@@ -1,12 +1,12 @@
-# PeertoPeer_IP_Project
+# Peer-to-Peer
 
-This is a PEER to PEER socket application with a Centralised Indexing System
+This is a PEER to PEER socket application with a Centralised Indexing System. Built a P2P-CI system in which peers who wish to download an RFC that they do not have in their hard drive, may download it from another active peer who does. All communication among peers or between a peer and the server will take place over TCP
 
 ## Environment for execution:
 
-**use python 3**
+**Use python 3**
 
-**We tested the program on : python 'v3.6.3'**
+**Program tested in : python 'v3.6.3'**
 
 In order to use this application please follow the following steps
 
